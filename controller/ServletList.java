@@ -81,7 +81,7 @@ public class ServletList extends HttpServlet {
     }
 
     /**
-     * Returns a short description of the servlet.
+     * Returns a short description sof the servlet.
      *
      * @return a String containing servlet description
      */
